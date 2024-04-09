@@ -1,0 +1,10 @@
+# Ignore protected data directories
+
+log/
+out/
+qiita/
+ref/
+scripts/
+tmi/logs/
+tmi/results/
+
